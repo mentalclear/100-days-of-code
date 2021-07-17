@@ -18,8 +18,11 @@ Strated Day 01. Worked on the FreeCodeCamp Front End Development Libriries cours
 ### R1D2
 Day 02. Worked on the FreeCodeCamp Front End Development Libriries course. Completed jQuery part. 
 Artifacts:
-https://codepen.io/dmitrii-kilishek/pen/gOWWKjb
+https://codepen.io/dmitrii-kilishek/pen/gOWWKjb and  
 https://github.com/mentalclear/fcc-frontend-dev-libs/tree/master/JQuery 
+Worked on 30 Days of Postman challenge Day 9. 
+Created a set of tests per the challenge requirements.
+Artifacts: https://www.postman.com/mentalclear/workspace/my-postman-experiments/request/14081161-ebe5b13d-8514-409a-a77c-c65b68af7140 
 
 ### R1D3
 
