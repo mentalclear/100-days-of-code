@@ -25,11 +25,11 @@ Created a set of tests per the challenge requirements.
 Artifacts: https://www.postman.com/mentalclear/workspace/my-postman-experiments/request/14081161-ebe5b13d-8514-409a-a77c-c65b68af7140 
 
 ### R1D3
-Day 03. Worked on the FreeCodeCamp Front End Development Libriries course. Completed SASS part. 
+Day 03. Worked on the FreeCodeCamp Front End Development Libraries course. Completed SASS part. 
 Artifacts: https://github.com/mentalclear/fcc-frontend-dev-libs/tree/master/sass
 
 ### R1D4
-Day 04. Working on the FreeCodeCamp Front End Development Libriries course. Started with React part.
+Day 04. Working on the FreeCodeCamp Front End Development Libraries course. Started with React part.
 Completed 10 of 47 challenges.
 Artifacts: https://github.com/mentalclear/fcc-frontend-dev-libs/tree/master/React 
 
