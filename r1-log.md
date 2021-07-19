@@ -29,7 +29,12 @@ Day 03. Worked on the FreeCodeCamp Front End Development Libriries course. Compl
 Artifacts: https://github.com/mentalclear/fcc-frontend-dev-libs/tree/master/sass
 
 ### R1D4
+Day 04. Working on the FreeCodeCamp Front End Development Libriries course. Started with React part.
+Completed 10 of 47 challenges.
+Artifacts: https://github.com/mentalclear/fcc-frontend-dev-libs/tree/master/React 
 
 ### R1D5
 
 ### R1D6
+
+### R1D7
