@@ -34,6 +34,9 @@ Completed 10 of 47 challenges.
 Artifacts: https://github.com/mentalclear/fcc-frontend-dev-libs/tree/master/React 
 
 ### R1D5
+Day 05. Continue working on the FreeCodeCamp Front End Development Libraries course. Working through React part.
+Completed 16 of 47 challenges.
+Artifacts: https://github.com/mentalclear/fcc-frontend-dev-libs/tree/master/React
 
 ### R1D6
 
