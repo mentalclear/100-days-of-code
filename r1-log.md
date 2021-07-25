@@ -59,5 +59,8 @@ Completed 47 of 47 challenges.
 Artifacts: https://github.com/mentalclear/fcc-frontend-dev-libs/tree/master/React
 
 ### R1D10
+Day 10. Working on STG certification with Java, going over Challenge 9 for Advanced Level. Parsing JSON requests.
 
 ### R1D11
+
+### R1D12
