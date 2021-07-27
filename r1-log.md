@@ -60,9 +60,11 @@ Artifacts: https://github.com/mentalclear/fcc-frontend-dev-libs/tree/master/Reac
 
 ### R1D10
 Day 10. Working on STG certification with Java, going over Challenge 9 for Advanced Level. Parsing JSON requests.
+Artifacts: https://github.com/mentalclear/stgwebauto-java/tree/master/src/test/java/stg/challenges
 
 ### R1D11
 Day 11. Working on STG certification with Java, completed Challenge 9 for Advanced Level. Hooray!
+Artifacts: https://github.com/mentalclear/stgwebauto-java/tree/master/src/test/java/stg/challenges
 
 ### R1D12
 
