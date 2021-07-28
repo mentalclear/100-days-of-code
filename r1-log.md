@@ -71,5 +71,9 @@ Day 12. Working on STG certification with Java, reworked Challenge 9 for Advance
 Artifacts: https://github.com/mentalclear/stgwebauto-java/tree/master/src/test/java/stg/challenges
 
 ### R1D13
+Day 13. Working on JUnit 5 course from Test Automation University. Covered first 5 chapters. 
+Artifacts: https://github.com/mentalclear/tau-junit5
 
 ### R1D14
+
+### R1D15
