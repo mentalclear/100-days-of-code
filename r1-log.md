@@ -67,5 +67,9 @@ Day 11. Working on STG certification with Java, completed Challenge 9 for Advanc
 Artifacts: https://github.com/mentalclear/stgwebauto-java/tree/master/src/test/java/stg/challenges
 
 ### R1D12
+Day 12. Working on STG certification with Java, reworked Challenge 9 for Advanced Level using Unirest library.
+Artifacts: https://github.com/mentalclear/stgwebauto-java/tree/master/src/test/java/stg/challenges
 
 ### R1D13
+
+### R1D14
