@@ -75,5 +75,9 @@ Day 13. Working on JUnit 5 course from Test Automation University. Covered first
 Artifacts: https://github.com/mentalclear/tau-junit5
 
 ### R1D14
+Day 14. Working on JUnit 5 course from Test Automation University. Covered chapters 6 and 7. 
+Artifacts: https://github.com/mentalclear/tau-junit5
 
 ### R1D15
+
+### R1D16
