@@ -83,5 +83,12 @@ Day 15. Working on JUnit 5 course from Test Automation University. Covered chapt
 Artifacts: https://github.com/mentalclear/tau-junit5
 
 ### R1D16
+Day 16. Completed JUnit 5 course from Test Automation University - Hooray!. 
+Continue working on STG Selenium Challenge 10. Added a DataProvider method for the test.
+Some more work needed to complete the challenge. 
+Artifacts1: https://github.com/mentalclear/tau-junit5
+Artifacts2: https://github.com/mentalclear/stgwebauto-java/tree/master/src/test/java/stg/challenges 
 
 ### R1D17
+
+### R1D18
