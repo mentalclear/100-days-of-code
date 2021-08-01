@@ -90,5 +90,9 @@ Artifacts1: https://github.com/mentalclear/tau-junit5
 Artifacts2: https://github.com/mentalclear/stgwebauto-java/tree/master/src/test/java/stg/challenges 
 
 ### R1D17
+Day 17. Started Intruduction to TestNG course from Test Automation University. Completed Chapteres 1-4.
+Artifacts: https://github.com/mentalclear/tau-testng
 
 ### R1D18
+
+### R1D19
