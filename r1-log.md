@@ -94,7 +94,7 @@ Day 17. Started Intruduction to TestNG course from Test Automation University. C
 Artifacts: https://github.com/mentalclear/tau-testng
 
 ### R1D18
-Day 18. Started Intruduction to TestNG course from Test Automation University. Completed Chapters 1 to 4.2
+Day 18. Started Selenium WebDriver with Java from Test Automation University. Completed Chapters 1 to 4.2
 Artifacts: https://github.com/mentalclear/tau-webdriver-java
 
 ### R1D19
