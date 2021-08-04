@@ -98,5 +98,10 @@ Day 18. Started Selenium WebDriver with Java from Test Automation University. Co
 Artifacts: https://github.com/mentalclear/tau-webdriver-java
 
 ### R1D19
+Day 19. Continue working on Selenium WebDriver with Java from Test Automation University. Completed Chapter 4.3
+and a challenge there. An hour well spent!
+Artifacts: https://github.com/mentalclear/tau-webdriver-java
 
 ### R1D20
+
+### R1D21
