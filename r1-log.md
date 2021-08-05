@@ -109,5 +109,10 @@ Also working through my 30 days of Postman for developers. Did some coding for t
 A lot of coding going on - love it!
 
 ### R1D21
+Day 21. Continue working on Selenium WebDriver with Java from Test Automation University. 
+Completed Chapter 6 and the exercise there. 
+Artifacts: https://github.com/mentalclear/tau-webdriver-java
 
 ### R1D22
+
+### R1D23
