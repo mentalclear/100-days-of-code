@@ -103,5 +103,11 @@ and a challenge there. An hour well spent!
 Artifacts: https://github.com/mentalclear/tau-webdriver-java
 
 ### R1D20
+Day 20. Continue working on Selenium WebDriver with Java from Test Automation University. Completed Chapter 5.
+Artifacts: https://github.com/mentalclear/tau-webdriver-java
+Also working through my 30 days of Postman for developers. Did some coding for tests there as well. 
+A lot of coding going on - love it!
 
 ### R1D21
+
+### R1D22
