@@ -114,5 +114,10 @@ Completed Chapter 6 and the exercise there.
 Artifacts: https://github.com/mentalclear/tau-webdriver-java
 
 ### R1D22
+Day 22. Continue working on Selenium WebDriver with Java from Test Automation University. Completed Chapter 7.1
+Artifacts: https://github.com/mentalclear/tau-webdriver-java
+Also worked on a python challege for Autobots with QA At The Point group.
 
 ### R1D23
+
+### R1D24
