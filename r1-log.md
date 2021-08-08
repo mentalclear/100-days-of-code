@@ -123,5 +123,9 @@ Day 23. Continue working on Selenium WebDriver with Java from Test Automation Un
 Artifacts: https://github.com/mentalclear/tau-webdriver-java
 
 ### R1D24
+Day 24. Continue working on Selenium WebDriver with Java from Test Automation University. Completed Chapter 8 + an exercise.
+Artifacts: https://github.com/mentalclear/tau-webdriver-java
 
 ### R1D25
+
+### R1D26
