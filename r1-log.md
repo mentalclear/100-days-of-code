@@ -127,5 +127,10 @@ Day 24. Continue working on Selenium WebDriver with Java from Test Automation Un
 Artifacts: https://github.com/mentalclear/tau-webdriver-java
 
 ### R1D25
+Day 25. Continue working on Selenium WebDriver with Java from Test Automation University. Completed Chapter 9 + an exercise.
+Resumed working on Python Crash Course - Chapter 8 and exercises.
+Artifacts: https://github.com/mentalclear/tau-webdriver-java, https://github.com/mentalclear/PythonCrashCourse 
 
 ### R1D26
+
+### R1D27
