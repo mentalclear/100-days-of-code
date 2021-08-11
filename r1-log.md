@@ -132,5 +132,11 @@ Resumed working on Python Crash Course - Chapter 8 and exercises.
 Artifacts: https://github.com/mentalclear/tau-webdriver-java, https://github.com/mentalclear/PythonCrashCourse 
 
 ### R1D26
+Day 26. Continue working on Selenium WebDriver with Java from Test Automation University. Completed Chapter 10 + an exercise.
+Continue with Python Crash Course, more from Chapter 8 and exercises.
+Artifacts: https://github.com/mentalclear/tau-webdriver-java, https://github.com/mentalclear/PythonCrashCourse 
+
 
 ### R1D27
+
+### R1D28
