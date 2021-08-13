@@ -147,5 +147,9 @@ Continue Python Crash Course, working on the Chapter 9 and exercises.
 Artifacts: https://github.com/mentalclear/tau-webdriver-java, https://github.com/mentalclear/PythonCrashCourse 
 
 ### R1D29
+Day 29. Continue working on Python Crash Course, completed the Chapter 9 and exercises. 
+Artifacts: https://github.com/mentalclear/PythonCrashCourse 
 
 ### R1D30
+
+### R1D31
