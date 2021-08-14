@@ -151,5 +151,10 @@ Day 29. Continue working on Python Crash Course, completed the Chapter 9 and exe
 Artifacts: https://github.com/mentalclear/PythonCrashCourse 
 
 ### R1D30
+Day 30. Completed Selenium WebDriver with Java from Test Automation University. Hooray!
+Continue Python Crash Course, working on the Chapter 10 and exercises.
+Artifacts: https://github.com/mentalclear/tau-webdriver-java, https://github.com/mentalclear/PythonCrashCourse 
 
 ### R1D31
+
+### R1D32
