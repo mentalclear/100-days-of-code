@@ -156,5 +156,10 @@ Continue Python Crash Course, working on the Chapter 10 and exercises.
 Artifacts: https://github.com/mentalclear/tau-webdriver-java, https://github.com/mentalclear/PythonCrashCourse 
 
 ### R1D31
+Day 31. Completed Introduction to pytest from Test Automation University.
+Continue Python Crash Course, completed Chapter 10 and exercises.
+Artifacts: https://github.com/mentalclear/tau-intro-to-pytest, https://github.com/mentalclear/PythonCrashCourse
 
 ### R1D32
+
+### R1D33
