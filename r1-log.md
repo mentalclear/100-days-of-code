@@ -161,5 +161,10 @@ Continue Python Crash Course, completed Chapter 10 and exercises.
 Artifacts: https://github.com/mentalclear/tau-intro-to-pytest, https://github.com/mentalclear/PythonCrashCourse
 
 ### R1D32
+Day 32. Continue Python Crash Course, completed Chapter 11 and exercises. 
+Now starting with projects! Sounds super cool!
+Artifacts:  https://github.com/mentalclear/PythonCrashCourse
 
 ### R1D33
+
+### R1D34
