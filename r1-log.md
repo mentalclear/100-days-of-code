@@ -166,5 +166,10 @@ Now starting with projects! Sounds super cool!
 Artifacts:  https://github.com/mentalclear/PythonCrashCourse
 
 ### R1D33
+Day 33. Completed Selenium WebDriver course with Python from TAU
+Need to work on exercises. Planed: select a project from Python Crash Course to work on. Thinking about website one. 
+Artifacts: https://github.com/mentalclear/tau-webdriver-python
 
 ### R1D34
+
+### R1D35
