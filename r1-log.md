@@ -171,5 +171,9 @@ Need to work on exercises. Planed: select a project from Python Crash Course to 
 Artifacts: https://github.com/mentalclear/tau-webdriver-python
 
 ### R1D34
+Day 34. Built a Selenium WebDriver framework with Java following a Pluralsight course. Started Django project from Python Crash Course. 
+Artifacts: https://github.com/mentalclear/python-cc-django-project
 
 ### R1D35
+
+### R1D36
