@@ -175,5 +175,10 @@ Day 34. Built a Selenium WebDriver framework with Java following a Pluralsight c
 Artifacts: https://github.com/mentalclear/python-cc-django-project
 
 ### R1D35
+Day 35. Working through a Test Automation University course API Testing in Python. 
+Doing it my way so it's going to take a while :) 
+Artifacts: https://github.com/mentalclear/tau-api-testing-python
 
 ### R1D36
+
+### R1D37
