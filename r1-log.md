@@ -180,5 +180,9 @@ Doing it my way so it's going to take a while :)
 Artifacts: https://github.com/mentalclear/tau-api-testing-python
 
 ### R1D36
+Day 36. Completed an Autobots challenge for API Testing using Python. 
+Artifacts: https://github.com/mentalclear/autobots-fastapi-class/blob/master/challenges/todos_challenge/
 
 ### R1D37
+
+### R1D38
