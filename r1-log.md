@@ -184,5 +184,9 @@ Day 36. Completed an Autobots challenge for API Testing using Python.
 Artifacts: https://github.com/mentalclear/autobots-fastapi-class/blob/master/challenges/todos_challenge/
 
 ### R1D37
+Day 37. Continue working on Django project from Python Crash Course. 
+Artifacts: https://github.com/mentalclear/python-cc-django-project
 
 ### R1D38
+
+### R1D39
