@@ -188,5 +188,10 @@ Day 37. Continue working on Django project from Python Crash Course.
 Artifacts: https://github.com/mentalclear/python-cc-django-project
 
 ### R1D38
+Day 38. Continue working on Django project from Python Crash Course. 
+Completed some more exercises.
+Artifacts: https://github.com/mentalclear/python-cc-django-project
 
 ### R1D39
+
+### R1D40
