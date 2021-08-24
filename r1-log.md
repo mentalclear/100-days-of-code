@@ -193,5 +193,8 @@ Completed some more exercises.
 Artifacts: https://github.com/mentalclear/python-cc-django-project
 
 ### R1D39
+Day 39. Worked a little on TAU API testing in Python course and spend some time learning how to install and use pipenv.
 
 ### R1D40
+
+### R1D41
