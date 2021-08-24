@@ -196,5 +196,10 @@ Artifacts: https://github.com/mentalclear/python-cc-django-project
 Day 39. Worked a little on TAU API testing in Python course and spend some time learning how to install and use pipenv.
 
 ### R1D40
+Day 40. Working through a Test Automation University course API Testing in Python. 
+With better understanding how pipenv works it goes better now :) Chapter 3 - next. 
+Artifacts: https://github.com/mentalclear/tau-api-testing-python
 
 ### R1D41
+
+### R1D42
