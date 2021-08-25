@@ -201,5 +201,9 @@ With better understanding how pipenv works it goes better now :) Chapter 3 - nex
 Artifacts: https://github.com/mentalclear/tau-api-testing-python
 
 ### R1D41
+Day 41. Did some refactoring based on peer review for Autobots challenge for API Testing using Python. 
+Artifacts: https://github.com/mentalclear/autobots-fastapi-class/blob/master/challenges/todos_challenge/
 
 ### R1D42
+
+### R1D43
