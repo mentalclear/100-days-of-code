@@ -205,5 +205,8 @@ Day 41. Did some refactoring based on peer review for Autobots challenge for API
 Artifacts: https://github.com/mentalclear/autobots-fastapi-class/blob/master/challenges/todos_challenge/
 
 ### R1D42
+Day 42. Working through a Test Automation University course API Testing in Python. Some fighting with pipenv is still going on. :)
 
 ### R1D43
+
+### R1D44
