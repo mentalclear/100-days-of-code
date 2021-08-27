@@ -208,5 +208,9 @@ Artifacts: https://github.com/mentalclear/autobots-fastapi-class/blob/master/cha
 Day 42. Working through a Test Automation University course API Testing in Python. Some fighting with pipenv is still going on. :)
 
 ### R1D43
+Day 43. Working through a Test Automation University course API Testing in Python. Chapter 4 Done, Chapter 5 - next. 
+Artifacts: https://github.com/mentalclear/tau-api-testing-python
 
 ### R1D44
+
+### R1D45
