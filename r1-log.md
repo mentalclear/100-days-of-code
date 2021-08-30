@@ -219,5 +219,9 @@ Day 45. Working through a Test Automation University course API Testing in Pytho
 Artifacts: https://github.com/mentalclear/tau-api-testing-python
 
 ### R1D46
+Day 46. Working through a Test Automation University course API Testing in Python. Chapter 7 Done, Chapter 8 - next. 
+Artifacts: https://github.com/mentalclear/tau-api-testing-python
 
 ### R1D47
+
+### R1D48
