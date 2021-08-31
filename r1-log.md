@@ -223,5 +223,9 @@ Day 46. Working through a Test Automation University course API Testing in Pytho
 Artifacts: https://github.com/mentalclear/tau-api-testing-python
 
 ### R1D47
+Day 47. Completed Test Automation University course API Testing in Python. Learning python typing from python docs.
+https://docs.python.org/3/library/typing.html#the-any-type
 
 ### R1D48
+
+### R1D49
