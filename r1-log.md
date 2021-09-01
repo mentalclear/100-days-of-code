@@ -227,5 +227,9 @@ Day 47. Completed Test Automation University course API Testing in Python. Learn
 https://docs.python.org/3/library/typing.html#the-any-type
 
 ### R1D48
+Day 48. Continue learning python typing from python docs.
+https://docs.python.org/3/library/typing.html#the-any-type
 
 ### R1D49
+
+### R1D50
