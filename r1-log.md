@@ -231,5 +231,9 @@ Day 48. Continue learning python typing from python docs.
 https://docs.python.org/3/library/typing.html#the-any-type
 
 ### R1D49
+Day 49. Continue working on Django project from Python Crash Course. Completed Chapter 18 exercise.
+Artifacts: https://github.com/mentalclear/python-cc-django-project
 
 ### R1D50
+
+### R1D51
