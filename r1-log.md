@@ -239,5 +239,9 @@ Day 50. Decided to dive deeper into python itself, learning python Data Model fr
 so far so good, looks interesting! Working on code examples.
 
 ### R1D51
+Day 51. Continue learning python Data Model from a book Fluent Python, 2nd Edition
+Working through code examples. A lot of interesting concepts can be found there.
 
 ### R1D52
+
+### R1D53
