@@ -235,5 +235,9 @@ Day 49. Continue working on Django project from Python Crash Course. Completed C
 Artifacts: https://github.com/mentalclear/python-cc-django-project
 
 ### R1D50
+Day 50. Decided to dive deeper into python itself, learning python Data Model from a book Fluent Python, 2nd Edition
+so far so good, looks interesting! Working on code examples.
 
 ### R1D51
+
+### R1D52
