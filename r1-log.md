@@ -243,5 +243,10 @@ Day 51. Continue learning python Data Model from a book Fluent Python, 2nd Editi
 Working through code examples. A lot of interesting concepts can be found there.
 
 ### R1D52
+Day 52. Completed Python Data Model chapter from the book Fluent Python, 2nd Edition
+Moved to Data Structures chapter Working through code examples.
+Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D53
+
+### R1D54
