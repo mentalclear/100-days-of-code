@@ -248,5 +248,10 @@ Moved to Data Structures chapter Working through code examples.
 Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D53
+Day 53. Continue working through Data Structures chapter from the book Fluent Python, 2nd Edition
+Working through code examples.
+Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D54
+
+### R1D55
