@@ -253,5 +253,10 @@ Working through code examples.
 Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D54
+Day 54. Continue working through Data Structures chapter from the book Fluent Python, 2nd Edition
+Working through code examples. Looking deeper into slicing.
+Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D55
+
+### R1D56
