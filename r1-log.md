@@ -263,5 +263,10 @@ Working through code examples. Looked deeper into Lists, arrays are next.
 Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D56
+Day 56. Completed Data Structures chapter from the book Fluent Python, 2nd Edition
+Worked through code examples. Looked deeper into arrays, numpy, deque
+Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D57
+
+### R1D58
