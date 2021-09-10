@@ -268,5 +268,10 @@ Worked through code examples. Looked deeper into arrays, numpy, deque
 Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D57
+Day 57. Working on a Chapter: Advanced List Capabilities from the book
+Supercharged Python. Worked through code examples.
+Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D58
+
+### R1D59
