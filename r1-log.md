@@ -273,5 +273,10 @@ Supercharged Python. Worked through code examples.
 Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D58
+Day 58. Continue working on a Chapter: Advanced List Capabilities from the book
+Supercharged Python. Worked through code examples.
+Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D59
+
+### R1D60
