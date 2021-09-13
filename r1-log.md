@@ -282,5 +282,9 @@ Day 59. Continue working with the chapter Advanced List Capabilities from the bo
 Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D60
+Day 60. Working on Advanced List Capabilities from the book Supercharged Python. Lots of interetsing stuff. Getting through code examples.
+Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D61
+
+### R1D62
