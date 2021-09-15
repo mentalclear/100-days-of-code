@@ -290,5 +290,10 @@ Day 61. Completed Advanced List Capabilities from the book Supercharged Python! 
 Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D62
+Day 62. Working through chapter Comprehensions and Generators from the book Effective Python. Playing around
+with code examples.
+Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D63
+
+### R1D64
