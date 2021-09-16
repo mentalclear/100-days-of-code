@@ -295,5 +295,10 @@ with code examples.
 Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D63
+Day 63. Got through Coroutines and Tasks from python docs,
+and Concurrency and async / await from FastAPI docs for upcoming class.
+https://github.com/mentalclear/autobots-fastapi-class/tree/master/python_playground_wasync
 
 ### R1D64
+
+### R1D65
