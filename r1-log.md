@@ -300,5 +300,9 @@ and Concurrency and async / await from FastAPI docs for upcoming class.
 https://github.com/mentalclear/autobots-fastapi-class/tree/master/python_playground_wasync
 
 ### R1D64
+Day 64. Working through chapter Comprehensions and Generators from the book Effective Python. Went over Using Generators over Lists and Defensive way of iteration over arguments.
+Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D65
+
+### R1D66
