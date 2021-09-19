@@ -304,5 +304,10 @@ Day 64. Working through chapter Comprehensions and Generators from the book Effe
 Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D65
+Day 65. Taking a break from python today :) Looking into Next.js farmework. That thing looks pretty fast! Going over tutorial to
+grab some basic undestanding. Can be found here: https://nextjs.org/learn
+Artifacts: https://github.com/mentalclear/my_nextjs
 
 ### R1D66
+
+### R1D67
