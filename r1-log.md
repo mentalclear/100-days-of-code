@@ -312,5 +312,9 @@ Artifacts: https://github.com/mentalclear/my_nextjs
 Day 66. Still looking into Next.js farmework. Continue going over tutorial to grab some basic undestanding. The tutorial can be found here: https://nextjs.org/learn
 
 ### R1D67
+Day 67. Returned to chapter Comprehensions and Generators from the book Effective Python. Working through the chapter.
+Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D68
+
+### R1D69
