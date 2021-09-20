@@ -309,5 +309,8 @@ grab some basic undestanding. Can be found here: https://nextjs.org/learn
 Artifacts: https://github.com/mentalclear/my_nextjs
 
 ### R1D66
+Day 66. Still looking into Next.js farmework. Continue going over tutorial to grab some basic undestanding. The tutorial can be found here: https://nextjs.org/learn
 
 ### R1D67
+
+### R1D68
