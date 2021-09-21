@@ -316,5 +316,9 @@ Day 67. Returned to chapter Comprehensions and Generators from the book Effectiv
 Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D68
+Day 68. Completed Comprehensions and Generators from Effective Python. Completed Formatting Text Precisely from Supercharged Python.
+Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D69
+
+### R1D70
