@@ -320,5 +320,9 @@ Day 68. Completed Comprehensions and Generators from Effective Python. Completed
 Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D69
+Day 69. Working through chapter "Object References, Mutability, and Recycling" from the book Fluent Python. Working through code examples.
+Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D70
+
+### R1D71
