@@ -324,5 +324,9 @@ Day 69. Working through chapter "Object References, Mutability, and Recycling" f
 Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D70
+Day 70. Continue through chapter "Object References, Mutability, and Recycling" from the book Fluent Python. Digging into more code examples.
+Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D71
+
+### R1D72
