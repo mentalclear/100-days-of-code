@@ -333,5 +333,9 @@ Coming up: Testing and Debugging from Effective Python
 Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D72
+Day 72. Working through chapter: Testing and Debugging from Effective Python. A lot of useful ideas there!
+Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D73
+
+### R1D74
