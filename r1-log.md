@@ -337,5 +337,9 @@ Day 72. Working through chapter: Testing and Debugging from Effective Python. A 
 Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D73
+Day 73. Completed chapter: Testing and Debugging from Effective Python. Coming: Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More
+Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D74
+
+### R1D75
