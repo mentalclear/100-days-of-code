@@ -345,5 +345,9 @@ Day 74. Working through a chapter - Serious Python: Black-Belt Advice on Deploym
 Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D75
+Day 75. Working through a chapter: Methods and Decorators from a book Serious Python. Getting through code examples. Looks pretty interesting!
+Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D76
+
+### R1D77
