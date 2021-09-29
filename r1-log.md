@@ -349,5 +349,9 @@ Day 75. Working through a chapter: Methods and Decorators from a book Serious Py
 Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D76
+Day 76. Completed chapter: Methods and Decorators from a book Serious Python. Started working through a course Intermediate Python Programming. 
+Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D77
+
+### R1D78
