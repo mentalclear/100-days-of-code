@@ -353,5 +353,10 @@ Day 76. Completed chapter: Methods and Decorators from a book Serious Python. St
 Artifacts: https://github.com/mentalclear/fluent-in-python
 
 ### R1D77
+Day 77. Working through a course Intermediate Python Programming. Looked into Lists and Dictionaries and the time 
+difference to iterate through them.
+Artifacts: https://github.com/mentalclear/fluent-in-python/tree/master/inetrmediate_python_prog/sonnets
 
 ### R1D78
+
+### R1D79
