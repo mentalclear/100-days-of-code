@@ -358,5 +358,9 @@ difference to iterate through them.
 Artifacts: https://github.com/mentalclear/fluent-in-python/tree/master/inetrmediate_python_prog/sonnets
 
 ### R1D78
+Day 78. Working through a course Intermediate Python Programming. Looked into Sets, Big O notation and List comps.
+Artifacts: https://github.com/mentalclear/fluent-in-python/tree/master/inetrmediate_python_prog/sonnets
 
 ### R1D79
+
+### R1D80
