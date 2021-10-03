@@ -366,5 +366,9 @@ Day 79. Completed Unit 3 from the course Intermediate Python. Programming. Start
 Artifacts: https://github.com/mentalclear/fluent-in-python/tree/master/inetrmediate_python_prog/sonnets
 
 ### R1D80
+Day 80. Working through the course Intermediate Python Programming. Currently at the Unit 4. Learned how to query Sqlite database. Looks really easy and cool! 
+Artifacts: https://github.com/mentalclear/fluent-in-python/tree/master/inetrmediate_python_prog/jeopardy
 
 ### R1D81
+
+### R1D82
