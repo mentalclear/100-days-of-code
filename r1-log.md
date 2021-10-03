@@ -362,5 +362,9 @@ Day 78. Working through a course Intermediate Python Programming. Looked into Se
 Artifacts: https://github.com/mentalclear/fluent-in-python/tree/master/inetrmediate_python_prog/sonnets
 
 ### R1D79
+Day 79. Completed Unit 3 from the course Intermediate Python. Programming. Starting Unit 4 that is focused on interacting with databases in Python 
+Artifacts: https://github.com/mentalclear/fluent-in-python/tree/master/inetrmediate_python_prog/sonnets
 
 ### R1D80
+
+### R1D81
