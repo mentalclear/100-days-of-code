@@ -370,5 +370,10 @@ Day 80. Working through the course Intermediate Python Programming. Currently at
 Artifacts: https://github.com/mentalclear/fluent-in-python/tree/master/inetrmediate_python_prog/jeopardy
 
 ### R1D81
+Day 81. Working through the course Intermediate Python Programming. Completed Unit 4. Off to the Unit 5. Tuples unpacking is a really cool thing.  
+Artifacts: https://github.com/mentalclear/fluent-in-python/tree/master/inetrmediate_python_prog/jeopardy
 
 ### R1D82
+
+### R1D83
+
