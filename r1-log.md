@@ -374,6 +374,10 @@ Day 81. Working through the course Intermediate Python Programming. Completed Un
 Artifacts: https://github.com/mentalclear/fluent-in-python/tree/master/inetrmediate_python_prog/jeopardy
 
 ### R1D82
+Day 82. Still working through the course Intermediate Python Programming. Completed Unit 5. Worked with matplotlib library which is an interesting thing for graphs in python!
+Artifacts: https://github.com/mentalclear/fluent-in-python/tree/master/inetrmediate_python_prog/plotting
 
 ### R1D83
+
+### R1D84
 
