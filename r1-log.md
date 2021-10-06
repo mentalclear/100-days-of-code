@@ -378,6 +378,10 @@ Day 82. Still working through the course Intermediate Python Programming. Comple
 Artifacts: https://github.com/mentalclear/fluent-in-python/tree/master/inetrmediate_python_prog/plotting
 
 ### R1D83
+Day 83. Completed the course Intermediate Python Programming. Worked on a web scraper project there. Pretty cool stuff. 
+Artifacts: https://github.com/mentalclear/fluent-in-python/tree/master/inetrmediate_python_prog/apod
 
 ### R1D84
+
+### R1D85
 
