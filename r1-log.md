@@ -382,6 +382,10 @@ Day 83. Completed the course Intermediate Python Programming. Worked on a web sc
 Artifacts: https://github.com/mentalclear/fluent-in-python/tree/master/inetrmediate_python_prog/apod
 
 ### R1D84
+Day 84. Started working through the course The Complete Python from O'Reilly. 
+Moslty going quick over the basics because I'm feeling pretty comforatble with those. Just stopping at those things that I think I might have forgotten. Hoping to get to the milstone 1 project tomorrow. 
 
 ### R1D85
+
+### R1D86
 
