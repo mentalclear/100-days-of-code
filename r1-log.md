@@ -386,6 +386,9 @@ Day 84. Started working through the course The Complete Python from O'Reilly.
 Moslty going quick over the basics because I'm feeling pretty comforatble with those. Just stopping at those things that I think I might have forgotten. Hoping to get to the milstone 1 project tomorrow. 
 
 ### R1D85
+Day 85. Today went to look at the Scientific Computing with Python path at FreeCodeCamp. For some reason I like this path better than The Complete Python course from O'Reilly. Went over 59% of Python for Everybody. Played with network sockets. That was super fun!
 
 ### R1D86
+
+### R1D87
 
