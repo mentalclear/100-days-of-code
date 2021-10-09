@@ -389,6 +389,9 @@ Moslty going quick over the basics because I'm feeling pretty comforatble with t
 Day 85. Today went to look at the Scientific Computing with Python path at FreeCodeCamp. For some reason I like this path better than The Complete Python course from O'Reilly. Went over 59% of Python for Everybody. Played with network sockets. That was super fun!
 
 ### R1D86
+Day 86. Working through the Scientific Computing with Python path at FreeCodeCamp. Went over 95% of Python for Everybody. Such an irony.. it was 59% yday :) Refreshed SQL commands... nice :) 
 
 ### R1D87
+
+### R1D88
 
