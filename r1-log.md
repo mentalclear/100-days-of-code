@@ -392,6 +392,8 @@ Day 85. Today went to look at the Scientific Computing with Python path at FreeC
 Day 86. Working through the Scientific Computing with Python path at FreeCodeCamp. Went over 95% of Python for Everybody. Such an irony.. it was 59% yday :) Refreshed SQL commands... nice :) 
 
 ### R1D87
+Day 87. Completed the theoretical part of the Scientific Computing with Python path at FreeCodeCamp. Python for Everybody is completed. Starting Arithmetic Formatter project there. 
 
 ### R1D88
 
+### R1D89
