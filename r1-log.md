@@ -398,5 +398,9 @@ Day 87. Completed the theoretical part of the Scientific Computing with Python p
 Day 88. Today worked on Arithmetic Formatter project from the Scientific Computing with Python path at FreeCodeCamp. Have not completed it yet. Will require some more time. Seems like my approach was incorrect completely :) It happens :)
 
 ### R1D89
+Day 89. Continue working on Arithmetic Formatter project from the Scientific Computing with Python path at FreeCodeCamp. Exploring and applying list comps. It might not be needed all the way for the solution
+but it's really interesting to get those skills set. 
 
 ### R1D90
+
+### R1D91
