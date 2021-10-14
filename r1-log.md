@@ -406,5 +406,8 @@ Day 90. Completed the Arithmetic Formatter project from the Scientific Computing
 project from the same path.
 
 ### R1D91
+Day 91. Completed working on the Time Calculator project from the Scientific Computing with Python path at FreeCodeCamp. Pretty nice project. Will work on somthing interesting next.
 
 ### R1D92
+
+### R1D93
