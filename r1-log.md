@@ -409,5 +409,9 @@ project from the same path.
 Day 91. Completed working on the Time Calculator project from the Scientific Computing with Python path at FreeCodeCamp. Pretty nice project. Will work on somthing interesting next.
 
 ### R1D92
+Day 92. Today I was looking into try - except - finally blocks when they are used in the generatior functions in python. Had some minor unclarities, but looks like now I'm clear. Also I'm secretly studying 
+JS in the background. But tshh... don't tell nobody! :)
 
 ### R1D93
+
+### R1D94
