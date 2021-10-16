@@ -413,5 +413,9 @@ Day 92. Today I was looking into try - except - finally blocks when they are use
 JS in the background. But tshh... don't tell nobody! :)
 
 ### R1D93
+Day 93. I'm continuing not so secretly study JS fullstack path :) Completed the course: JavaScript Live Lessons from React: Zero to Full-Stack (Video Collection).
+https://github.com/mentalclear/react-zero-to-full-stack/tree/master/JavaScript
 
 ### R1D94
+
+### R1D95
