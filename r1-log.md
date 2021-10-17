@@ -417,5 +417,8 @@ Day 93. I'm continuing not so secretly study JS fullstack path :) Completed the 
 https://github.com/mentalclear/react-zero-to-full-stack/tree/master/JavaScript
 
 ### R1D94
-
+Day 94. An JS fullstack path journey continues :) Completed Lesson 1 from a course Learn React for Modern Web Applications. Path: Zero to Full-Stack (Video Collection).
+Artifacts: https://tinyurl.com/mc2n7cw6
 ### R1D95
+
+### R1D96
