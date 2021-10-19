@@ -419,6 +419,11 @@ https://github.com/mentalclear/react-zero-to-full-stack/tree/master/JavaScript
 ### R1D94
 Day 94. JS fullstack path journey continues :) Completed Lesson 1 from a course Learn React for Modern Web Applications. Path: Zero to Full-Stack (Video Collection).
 Artifacts: https://tinyurl.com/mc2n7cw6
+
 ### R1D95
+Day 95. JS fullstack path journey is still On! Completed Lesson 2 from a course Learn React for Modern Web Applications. Path: Zero to Full-Stack (Video Collection). useState and useEffect are 2 interesting things!
+Artifacts: https://tinyurl.com/mc2n7cw6
 
 ### R1D96
+
+### R1D97
