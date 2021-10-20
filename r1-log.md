@@ -429,5 +429,9 @@ Day 96. Kept working on JS fullstack path. Completed Lesson 3 from a course Lear
 Artifacts: https://tinyurl.com/mc2n7cw6
 
 ### R1D97
+Day 97. Still on JS fullstack path. Completed Lesson 4 from a course Learn React for Modern Web Applications. Path: Zero to Full-Stack (Video Collection) Learned How to create NavBar and get data from APIs.
+Artifacts: https://tinyurl.com/mc2n7cw6
 
 ### R1D98
+
+### R1D99
