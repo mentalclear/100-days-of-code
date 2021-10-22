@@ -436,5 +436,8 @@ Artifacts: https://tinyurl.com/mc2n7cw6
 Day 98. Continue JS fullstack path. Completed Lessons 5 and 6 from a course Learn React for Modern Web Applications. Path: Zero to Full-Stack (Video Collection) Learned more about class based components and React anti-patterns.
 Artifacts: https://tinyurl.com/mc2n7cw6
 ### R1D99
+Day 99. And yes, still on JS fullstack path. Completed Lesson 7 from a course Learn React for Modern Web Applications. Path: Zero to Full-Stack (Video Collection) Learned: Context, Persist Data, Custom Hooks.
+Artifacts: https://tinyurl.com/mc2n7cw6
+
 
 ### R1D100
