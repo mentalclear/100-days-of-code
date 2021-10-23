@@ -442,6 +442,7 @@ Artifacts: https://tinyurl.com/mc2n7cw6
 
 ### R1D100
 Day 100 of #100DaysOfCode
-And yes, I've done it! 100 Days in a row!
-A course Learn React for Modern Web Applications. Path: Zero to Full-Stack (Video Collection) Learned: Deploy react apps to NEtlify, S3 bucket and Firebase.
+And yes, I've done it! 100 Days in a row! 
+A course Learn React for Modern Web Applications. Path: Zero to Full-Stack (Video Collection) Learned: Deploy React apps to Netlify, S3 bucket and Firebase.
 Artifacts: https://tinyurl.com/mc2n7cw6
+What now? R2 starts tomorrow :) 
