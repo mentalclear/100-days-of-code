@@ -25,6 +25,12 @@ R2Day02 of #100DaysOfCode
 Working through NodeJS Essentials. Path: Zero to Full-Stack (Video Collection). Completed the rest of Lesson 2 and full Lesson 3.
 Learned: more on Babel, and working with files in NodeJS with sync, callback and async. #nodejs, #javascript, #fullstack
 Artifacts: https://tinyurl.com/wmpbvvhz
+
 ### R2D3
+R2Day03 of #100DaysOfCode
+Working through NodeJS Essentials. Path: Zero to Full-Stack(Video). Done Lesson 4. Learned how to create web servers with: no frameworks, #express, #koa, #hapi in #nodejs using #javascript, this is #fullstack 
+Artifacts: https://tinyurl.com/wmpbvvhz
 
 ### R2D4
+
+### R2D5
