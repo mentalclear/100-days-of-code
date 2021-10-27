@@ -32,5 +32,12 @@ Working through NodeJS Essentials. Path: Zero to Full-Stack(Video). Done Lesson 
 Artifacts: https://tinyurl.com/wmpbvvhz
 
 ### R2D4
+R2Day04 of #100DaysOfCode
+Working through NodeJS Essentials. Path: Zero to Full-Stack(Video).
+Done Lesson 5. Learned how NodeJS connects to #MongoDB and #MySQL. #nodejs, #javascript, #fullstack 
+Artifacts: https://tinyurl.com/wmpbvvhz
 
 ### R2D5
+
+
+### R2D6
