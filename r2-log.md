@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - Dmitrii Kilishek
+# #100DaysOfCode Log - Round 2 - Dmitrii Kilishek
 
 The log of my #100DaysOfCode challenge - Round 2. 
 Started on [October 24, Sunday, 2021].
