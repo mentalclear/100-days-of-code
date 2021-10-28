@@ -38,6 +38,13 @@ Done Lesson 5. Learned how NodeJS connects to #MongoDB and #MySQL. #nodejs, #jav
 Artifacts: https://tinyurl.com/wmpbvvhz
 
 ### R2D5
-
+R2Day05 of #100DaysOfCode
+Working through NodeJS Essentials. Path: Zero to Full-Stack(Video).
+Done Lesson 6. Learned how to create websockets. Actually really exciting to see that two-way communication going on!
+#socket.io #nodejs, #javascript, #fullstack 
+Artifacts: https://tinyurl.com/wmpbvvhz
 
 ### R2D6
+
+
+### R2D7
