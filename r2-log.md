@@ -45,6 +45,12 @@ Done Lesson 6. Learned how to create websockets. Actually really exciting to see
 Artifacts: https://tinyurl.com/wmpbvvhz
 
 ### R2D6
-
+R2Day06 of #100DaysOfCode
+Working through NodeJS Essentials. Path: Zero to Full-Stack(Video).
+Done Lesson 7. Learned how to create/update npm packages and publish them to npmjs.com 
+#nodejs, #javascript, #fullstack 
+Artifacts: https://tinyurl.com/wmpbvvhz
 
 ### R2D7
+
+### R2D8
