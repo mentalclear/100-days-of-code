@@ -52,5 +52,10 @@ Done Lesson 7. Learned how to create/update npm packages and publish them to npm
 Artifacts: https://tinyurl.com/wmpbvvhz
 
 ### R2D7
-
+R2Day07 of #100DaysOfCode
+Taking a break from JS this weekend, working a lot on different documetns 
+and writing Python code for the task at hand.
+#python #documents but still my :heart: is with #fullstack
 ### R2D8
+
+### R2D9
