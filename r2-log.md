@@ -57,5 +57,11 @@ Taking a break from JS this weekend, working a lot on different documetns
 and writing Python code for the task at hand.
 #python #documents but still my :heart: is with #fullstack
 ### R2D8
+R2Day08 of #100DaysOfCode
+Just realized that I didn't post yesterday's log, so I'm posting it now.
+Taking a break from JS this weekend, writing some Python code for an API testing task.
+#python 
 
 ### R2D9
+
+### R2D10
