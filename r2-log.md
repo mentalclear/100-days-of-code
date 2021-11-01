@@ -63,5 +63,12 @@ Taking a break from JS this weekend, writing some Python code for an API testing
 #python 
 
 ### R2D9
+R2Day09 of #100DaysOfCode
+Back on track! Completed NodeJS Essentials. Path: Zero to Full-Stack(Video).
+Done Lesson 8, 9. Learned how to publish apps on Heroku and test with #mochaJS and #chaiJS. 
+#nodejs, #javascript, #fullstack 
+Artifacts: https://tinyurl.com/wmpbvvhz
 
 ### R2D10
+
+### R2D11
