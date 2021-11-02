@@ -70,5 +70,11 @@ Done Lesson 8, 9. Learned how to publish apps on Heroku and test with #mochaJS a
 Artifacts: https://tinyurl.com/wmpbvvhz
 
 ### R2D10
+R2Day10 of #100DaysOfCode
+Started Full-Stack React course. Path: Zero to Full-Stack(Video). Done Lesson 1. Prepped templates for front-end using #create-ract-app and back-end using #nodejs.  
+#reactjs #expressjs #javascript #fullstack 
 
 ### R2D11
+
+### R2D12
+
