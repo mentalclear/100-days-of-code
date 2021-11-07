@@ -91,6 +91,10 @@ Working through Full-Stack React course. Path: Zero to Full-Stack(Video). Workin
 #reactjs #expressjs #javascript
 
 ### R2D14
+R2Day14 of #100DaysOfCode
+Working through Full-Stack React course. Path: Zero to Full-Stack(Video). Completed Lesson 2. Meal Tracker #fullstack app. Started working on Lesson 3.
+#reactjs #expressjs #javascript
 
 ### R2D15
 
+### R2D16
