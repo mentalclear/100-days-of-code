@@ -96,5 +96,11 @@ Working through Full-Stack React course. Path: Zero to Full-Stack(Video). Comple
 #reactjs #expressjs #javascript
 
 ### R2D15
+R2Day15 of #100DaysOfCode
+Working through Full-Stack React course. Path: Zero to Full-Stack(Video). Started Lesson 3 building Members Only #fullstack app. Mostly working on the front-end.
+#reactjs #expressjs #javascript
 
 ### R2D16
+
+
+### R2D17
