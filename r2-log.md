@@ -106,5 +106,10 @@ Working through Full-Stack React course. Path: Zero to Full-Stack(Video). Contin
 #reactjs #expressjs #javascript
 
 ### R2D17
+R2Day17 of #100DaysOfCode
+Working through Full-Stack React course. Path: Zero to Full-Stack(Video). Continue with Lesson 3 building Members Only #fullstack app. Had to fight with Firebase authentication but got that resolved. Continued with creating a Sign In page.
+#reactjs #expressjs #javascript
 
 ### R2D18
+
+### R2D19
