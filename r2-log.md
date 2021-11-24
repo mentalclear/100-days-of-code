@@ -111,5 +111,8 @@ Working through Full-Stack React course. Path: Zero to Full-Stack(Video). Contin
 #reactjs #expressjs #javascript
 
 ### R2D18
-
+R2Day18 of #100DaysOfCode
+Resumed the challenge after the sickness. Refreshing overall JS to get back on track. Going through a course: Modern JavaScript for the Impatient. Completed Lesson 3. #javascript
 ### R2D19
+
+### R2D20
