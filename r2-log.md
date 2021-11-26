@@ -119,5 +119,9 @@ R2Day19 of #100DaysOfCode
 Continue refreshing JS to get back on track. Going through a course: Modern JavaScript for the Impatient. Completed Lesson 4 and 5. #javascript
 
 ### R2D20
+R2Day20 of #100DaysOfCode
+Continue refreshing JS. Going through a course: Modern JavaScript for the Impatient. Completed Lesson 6 - Regular expressions. #javascript
 
 ### R2D21
+
+### R2D22
