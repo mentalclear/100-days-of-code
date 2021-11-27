@@ -123,5 +123,9 @@ R2Day20 of #100DaysOfCode
 Continue refreshing JS. Going through a course: Modern JavaScript for the Impatient. Completed Lesson 6 - Regular expressions. #javascript
 
 ### R2D21
+R2Day21 of #100DaysOfCode
+Continue refreshing JS. Going through a course: Modern JavaScript for the Impatient. Completed Lesson 7 - Arrays, Maps, Sets. #javascript
 
 ### R2D22
+
+### R2D23
