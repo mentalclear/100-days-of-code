@@ -127,5 +127,10 @@ R2Day21 of #100DaysOfCode
 Continue refreshing JS. Going through a course: Modern JavaScript for the Impatient. Completed Lesson 7 - Arrays, Maps, Sets. #javascript
 
 ### R2D22
+R2Day22 of #100DaysOfCode
+Continue refreshing JS. Going through a course: Modern JavaScript for the Impatient. Completed Lesson 8 - Object Properties and Methods. #javascript
 
 ### R2D23
+
+
+### R2D24
