@@ -131,6 +131,10 @@ R2Day22 of #100DaysOfCode
 Continue refreshing JS. Going through a course: Modern JavaScript for the Impatient. Completed Lesson 8 - Object Properties and Methods. #javascript
 
 ### R2D23
-
+R2Day23 of #100DaysOfCode
+Continue refreshing JS. Going through a course: Modern JavaScript for the Impatient. Completed Lesson 9 - Iterators and Generators. #javascript
 
 ### R2D24
+
+
+### R2D25
