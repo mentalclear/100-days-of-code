@@ -135,6 +135,11 @@ R2Day23 of #100DaysOfCode
 Continue refreshing JS. Going through a course: Modern JavaScript for the Impatient. Completed Lesson 9 - Iterators and Generators. #javascript
 
 ### R2D24
-
+R2Day24 of #100DaysOfCode
+Continue refreshing JS. Going through a course: Modern JavaScript for the Impatient. Completed Lesson 10 - Async programming. 
+#javascript
 
 ### R2D25
+
+
+### R2D26
