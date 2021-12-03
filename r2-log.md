@@ -140,6 +140,10 @@ Continue refreshing JS. Going through a course: Modern JavaScript for the Impati
 #javascript
 
 ### R2D25
-
+R2Day25 of #100DaysOfCode
+Continue refreshing JS. Going through a course: Modern JavaScript for the Impatient. Completed Lesson 11 - Internationalization. 
+#javascript
 
 ### R2D26
+
+### R2D27
