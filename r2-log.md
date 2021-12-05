@@ -145,5 +145,12 @@ Continue refreshing JS. Going through a course: Modern JavaScript for the Impati
 #javascript
 
 ### R2D26
+R2Day26 of #100DaysOfCode
+Worked on refreshing JS.
+Completed a course: Modern JavaScript for the Impatient. That took me like 10 days in total. 
+Did katas from CodeWars, upped rank to 7kyu. 
+#javascript
 
 ### R2D27
+
+### R2D28
