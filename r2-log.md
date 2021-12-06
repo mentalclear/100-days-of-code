@@ -152,5 +152,10 @@ Did katas from CodeWars, upped rank to 7kyu.
 #javascript
 
 ### R2D27
+R2Day27 of #100DaysOfCode
+Taking it super slow today. Completed 4 x 7 kyu rank katas from CodeWars. 
+Using #javascript
 
 ### R2D28
+
+### R2D29
