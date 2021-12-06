@@ -157,5 +157,10 @@ Taking it super slow today. Completed 4 x 7 kyu rank katas from CodeWars.
 Using #javascript
 
 ### R2D28
+R2Day28 of #100DaysOfCode
+I'm back to Full-Stack React course. Path: Zero to Full-Stack(Video). Continue with Lesson 3 building Members Only #fullstack app. Finished creating Sign In page. Did 7kyu katas from CodeWars.
+#reactjs #expressjs #javascript
 
 ### R2D29
+
+### R2D30
