@@ -165,7 +165,7 @@ I'm back to Full-Stack React course. Path: Zero to Full-Stack(Video). Continue w
 R2Day29 of #100DaysOfCode
 Working on Full-Stack React course. Path: Zero to Full-Stack(Video). 
 Continue with Lesson 3 building Members Only #fullstack app. 
-Completed "Implement the Create Group page" lesson. Ran a few 7Kyu katas from CodeWars.
+Completed "Implement the Create Group page" lesson. Reached rank 6kyu in katas from CodeWars.
 #reactjs #expressjs #javascript
 
 
