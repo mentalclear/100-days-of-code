@@ -170,5 +170,12 @@ Completed "Implement the Create Group page" lesson. Reached rank 6kyu in katas f
 
 
 ### R2D30
+R2Day30 of #100DaysOfCode
+Working on Full-Stack React course. Path: Zero to Full-Stack(Video). 
+Continue with Lesson 3 building Members Only #fullstack app. 
+Working on "Implement the Group page" lesson. 
+#reactjs #expressjs #javascript
 
 ### R2D31
+
+### R2D32
