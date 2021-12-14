@@ -177,5 +177,13 @@ Working on "Implement the Group page" lesson.
 #reactjs #expressjs #javascript
 
 ### R2D31
+R2Day31 of #100DaysOfCode
+Working on Full-Stack React course. Path: Zero to Full-Stack(Video). 
+Lesson 3 building Members Only #fullstack app. Continue working on "Implement the Group page" lesson. 
+#reactjs #expressjs #javascript
+
 
 ### R2D32
+
+### R2D33
+
