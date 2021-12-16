@@ -191,5 +191,11 @@ Lesson 3 building Members Only #fullstack app. Continue working on "Implement th
 
 
 ### R2D33
+R2Day33 of #100DaysOfCode
+Working on Full-Stack React course. Path: Zero to Full-Stack(Video). 
+Completed Lesson 3 building Members Only #fullstack app. Starting with Lesson 4 tomorrow.
+#reactjs #expressjs #javascript
 
 ### R2D34
+
+### R2D35
