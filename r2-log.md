@@ -203,6 +203,12 @@ Sarting up with Lesson 4 build Photo Sharing #fullstack app. Spent my time on th
 #reactjs #expressjs #javascript
 
 ### R2D35
-
+R2Day35 of #100DaysOfCode
+Working on Full-Stack React course. Path: Zero to Full-Stack(Video). 
+Working on Lesson 4 build Photo Sharing #fullstack app. 
+Completed lesson 4.2 - frontend and backend setup.
+#reactjs #expressjs #javascript
 
 ### R2D36
+
+### R2D37
