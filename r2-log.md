@@ -217,5 +217,12 @@ Fighting with examples in lesson 4.3, I'm definitely doing somthing wrong. Will 
 #reactjs #expressjs #javascript
 
 ### R2D37
+R2Day37 of #100DaysOfCode
+Working on Full-Stack React course. Path: Zero to Full-Stack(Video). 
+Working on Lesson 4 build Photo Sharing #fullstack app. 
+Continue with lesson 4.3, re-created my front-end template for thsi app.
+#reactjs #expressjs #javascript
 
 ### R2D38
+
+### R2D39
