@@ -224,5 +224,12 @@ Continue with lesson 4.3, re-created my front-end template for thsi app.
 #reactjs #expressjs #javascript
 
 ### R2D38
+R2Day38 of #100DaysOfCode
+Working on Full-Stack React course. Path: Zero to Full-Stack(Video). 
+Working on Lesson 4 build Photo Sharing #fullstack app. 
+Completed Lesson sections 4.4 and 4.5 
+#reactjs #expressjs #javascript
 
 ### R2D39
+
+### R2D40
