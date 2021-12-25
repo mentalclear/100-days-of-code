@@ -231,5 +231,11 @@ Completed Lesson sections 4.4 and 4.5
 #reactjs #expressjs #javascript
 
 ### R2D39
+R2Day39 of #100DaysOfCode
+Working on Full-Stack React course. Path: Zero to Full-Stack(Video). 
+At Lesson 4 build Photo Sharing #fullstack app. Working on the section 4.6
+#reactjs #expressjs #javascript
 
 ### R2D40
+
+### R2D41
