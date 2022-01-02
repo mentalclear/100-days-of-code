@@ -237,5 +237,12 @@ At Lesson 4 build Photo Sharing #fullstack app. Working on the section 4.6
 #reactjs #expressjs #javascript
 
 ### R2D40
+R2Day40 of #100DaysOfCode
+Happy New Year! Back to it after a holiday break.
+Started with #Go #Golang as planned this year. 
+Working through a book The Go Programming Language.
+Currently on Chapter 1. Done exercises for Chapter 1.2
 
 ### R2D41
+
+### R2D42
