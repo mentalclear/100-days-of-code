@@ -244,7 +244,7 @@ Working through a book The Go Programming Language.
 Currently on Chapter 1. Done exercises for Chapter 1.2
 
 ### R2D41
-R2Day40 of #100DaysOfCode
+R2Day41 of #100DaysOfCode
 Working through a book The Go Programming Language.
 Completed Chapter 1, started with Chpater 2. 
 Struggling a bit with a book, decided to switch to video course: 
