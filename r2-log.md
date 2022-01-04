@@ -251,5 +251,13 @@ Struggling a bit with a book, decided to switch to video course:
 Learn Go in 3 Hours. Makes better sense now! #Go #Golang
 
 ### R2D42
+R2Day42 of #100DaysOfCode
+Working through the video course: Learn Go in 3 Hours. 
+Got to Chapter 3 and working thorugh it. 
+So far makes better sense for me like that! 
+#Go #Golang
 
 ### R2D43
+
+### R2D44
+
