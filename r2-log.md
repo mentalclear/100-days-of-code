@@ -258,6 +258,11 @@ So far makes better sense for me like that!
 #Go #Golang
 
 ### R2D43
+R2Day43 of #100DaysOfCode
+Working through the video course: Learn Go in 3 Hours. 
+Completed Chapter 3 now ready to start with Chapter 4 tomorrow.
+#Go #Golang
 
 ### R2D44
 
+### R2D45
