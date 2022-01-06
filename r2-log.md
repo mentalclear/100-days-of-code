@@ -264,5 +264,12 @@ Completed Chapter 3 now ready to start with Chapter 4 tomorrow.
 #Go #Golang
 
 ### R2D44
+R2Day44 of #100DaysOfCode
+Working through the video course: Learn Go in 3 Hours. 
+In the middle of Chapter 4. Laerning about packages. Had to fight with GOPATH variable but that wasn't too bad.
+#Go #Golang
+Repo: https://github.com/mentalclear/LearnGoIn3Hours
 
 ### R2D45
+
+### R2D46
