@@ -271,5 +271,12 @@ In the middle of Chapter 4. Laerning about packages. Had to fight with GOPATH va
 Repo: https://github.com/mentalclear/LearnGoIn3Hours
 
 ### R2D45
+R2Day45 of #100DaysOfCode
+Working through the video course: Learn Go in 3 Hours. 
+Done Chapter 4. Looked into Slices, Maps and Structs
+#Go #Golang
+Repo: https://github.com/mentalclear/LearnGoIn3Hours
 
 ### R2D46
+
+### R2D47
