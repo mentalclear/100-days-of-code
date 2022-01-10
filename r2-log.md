@@ -278,12 +278,20 @@ Done Chapter 4. Looked into Slices, Maps and Structs
 Repo: https://github.com/mentalclear/LearnGoIn3Hours
 
 ### R2D46
-R2Day45 of #100DaysOfCode
+R2Day46 of #100DaysOfCode
 Working through the video course: Learn Go in 3 Hours. 
 Started working on Chapter 5. Leanred about Methods, Interfaces are next!
 #Go #Golang
 
 
 ### R2D47
+R2Day47 of #100DaysOfCode
+Working through the video course: Learn Go in 3 Hours. 
+Completed Chapter 5. Leanred about Interfaces and Errors
+Chapter 6 is the next! So far I can tell that even the course called "learn in 3 hours", 
+it takes much more than that.:)
+#Go #Golang
 
 ### R2D48
+
+### R2D49
