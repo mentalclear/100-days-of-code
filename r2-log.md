@@ -293,5 +293,12 @@ it takes much more than that.:)
 #Go #Golang
 
 ### R2D48
+R2Day48 of #100DaysOfCode
+:tada: Completed the video course: Learn Go in 3 Hours. 
+In Chapter 6 learned about goroutines, channels and selects.
+Great course to get a relatively quick overview of Go. Recommended. Thanks @jonbodner
+#Go #Golang
 
 ### R2D49
+
+### R2D50
