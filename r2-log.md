@@ -300,5 +300,11 @@ Great course to get a relatively quick overview of Go. Recommended. Thanks @jonb
 #Go #Golang
 
 ### R2D49
+R2Day49 of #100DaysOfCode
+Started working through the book Learning Go. 
+Completed Chapter 1 and 2. Coming next: Chapter 3.
+#Go #Golang
 
 ### R2D50
+
+### R2D51
