@@ -306,5 +306,12 @@ Completed Chapter 1 and 2. Coming next: Chapter 3.
 #Go #Golang
 
 ### R2D50
+R2Day50 of #100DaysOfCode
+Halfway through my 2 round or the challenge!
+Studying Go language with a help of the Learning Go book. 
+Currently at Chapter 3. Working thorugh code examples.
+Experimenting. #Go #Golang
 
 ### R2D51
+
+### R2D52
