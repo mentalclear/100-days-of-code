@@ -313,5 +313,12 @@ Currently at Chapter 3. Working thorugh code examples.
 Experimenting. #Go #Golang
 
 ### R2D51
+R2Day51 of #100DaysOfCode
+Just starting 2nd half of the 2nd round :strong:!
+Working through the Learning Go book. 
+Digging Chapter 3. Worked on Slicing Slices part. 
+Seems pretty fun! #Go #Golang
 
 ### R2D52
+
+### R2D53
