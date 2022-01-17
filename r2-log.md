@@ -326,5 +326,11 @@ Continued with Chapter 3. Looked into Strings, Runes, Bytes and Maps.
 More on Maps ahead. Slow but sure! #Go #Golang
 
 ### R2D53
+R2Day53 of #100DaysOfCode
+Continue working through the Learning Go book.
+Completed Chapter 3. Deepened with Maps, learned about Structs. 
+Looking forward to the Chapter 4 #Go #Golang
 
 ### R2D54
+
+### R2D55
