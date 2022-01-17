@@ -320,5 +320,11 @@ Digging Chapter 3. Worked on Slicing Slices part.
 Seems pretty fun! #Go #Golang
 
 ### R2D52
+R2Day52 of #100DaysOfCode
+A bit relaxed today, but I'm still working through the Learning Go book.
+Continued with Chapter 3. Looked into Strings, Runes, Bytes and Maps. 
+More on Maps ahead. Slow but sure! #Go #Golang
 
 ### R2D53
+
+### R2D54
