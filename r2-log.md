@@ -339,5 +339,13 @@ if statemtnts and for loops.
 #Go #Golang
 
 ### R2D55
+R2Day55 of #100DaysOfCode
+Working through the Learning Go book. 
+Chapter 4 - continue, breaks, map iterations #Go #Golang
+Resumed my work on Full-Stack React course 
+Building along Photo Sharing #fullstack app. 
+#reactjs #expressjs #javascript
 
 ### R2D56
+
+### R2D57
