@@ -332,5 +332,12 @@ Completed Chapter 3. Deepened with Maps, learned about Structs.
 Looking forward to the Chapter 4 #Go #Golang
 
 ### R2D54
+R2Day54 of #100DaysOfCode
+Continue working through the Learning Go book.
+Started Chapter 4. Learned about shdowing variables,
+if statemtnts and for loops.  
+#Go #Golang
 
 ### R2D55
+
+### R2D56
