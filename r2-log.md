@@ -355,5 +355,14 @@ Last stretch in building along of Photo Sharing #fullstack app.
 #reactjs #expressjs #javascript
 
 ### R2D57
+R2Day57 of #100DaysOfCode
+Working through the Learning Go book. 
+Started Chapter 5 - learning about functions #Go #Golang
+Continue working on Full-Stack React course 
+Done building along of Photo Sharing #fullstack app. Next!
+#reactjs #expressjs #javascript
+
 
 ### R2D58
+
+### R2D59
