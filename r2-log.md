@@ -364,5 +364,13 @@ Done building along of Photo Sharing #fullstack app. Next!
 
 
 ### R2D58
+R2Day58 of #100DaysOfCode
+Working through the Learning Go book. 
+Working through Chapter 5 - Functions #Go #Golang
+Continue working on Full-Stack React course 
+Started building along Stock-Trading #fullstack app. 
+#reactjs #expressjs #javascript
 
 ### R2D59
+
+### R2D60
