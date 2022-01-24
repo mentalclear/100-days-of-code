@@ -380,5 +380,13 @@ Continue building along Stock-Trading #fullstack app.
 #reactjs #expressjs #javascript
 
 ### R2D60
+R2Day60 of #100DaysOfCode
+Working through the Learning Go book. 
+Completed Chapter 5 about functions #Go #Golang
+Working thorugh Full-Stack React course. 
+Building along Stock-Trading #fullstack app. Had to find a way to install older fetch-node package. New one didn't work!
+#reactjs #expressjs #javascript
 
 ### R2D61
+
+### R2D62
