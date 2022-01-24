@@ -372,5 +372,13 @@ Started building along Stock-Trading #fullstack app.
 #reactjs #expressjs #javascript
 
 ### R2D59
+R2Day59 of #100DaysOfCode
+Working through the Learning Go book. 
+Currently at Chapter 5 learning Functions #Go #Golang
+Working thorugh Full-Stack React course. 
+Continue building along Stock-Trading #fullstack app. 
+#reactjs #expressjs #javascript
 
 ### R2D60
+
+### R2D61
