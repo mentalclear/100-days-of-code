@@ -388,5 +388,14 @@ Building along Stock-Trading #fullstack app. Had to find a way to install older 
 #reactjs #expressjs #javascript
 
 ### R2D61
+R2Day61 of #100DaysOfCode
+Working through the Learning Go book. 
+Started Chapter 6 - Pointers #Go #Golang
+Working thorugh Full-Stack React course. 
+Building along Stock-Trading #fullstack app. Going slow but sure!
+#reactjs #expressjs #javascript
+
 
 ### R2D62
+
+### R2D63
