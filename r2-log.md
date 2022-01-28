@@ -405,5 +405,14 @@ Building along Stock-Trading #fullstack app. One more piece left!
 
 
 ### R2D63
+R2Day63 of #100DaysOfCode
+Working through the Learning Go book. 
+Continue Chapter 6 - Learning more on Pointers #Go #Golang
+Working thorugh Full-Stack React course. 
+Complete: Stock-Trading #fullstack app. Next: Chapter 6. Final!
+#reactjs #expressjs #javascript
+
 
 ### R2D64
+
+### R2D65
