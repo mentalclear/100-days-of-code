@@ -412,7 +412,14 @@ Working thorugh Full-Stack React course.
 Complete: Stock-Trading #fullstack app. Next: Chapter 6. Final!
 #reactjs #expressjs #javascript
 
-
 ### R2D64
+R2Day64 of #100DaysOfCode
+Working through the Learning Go book. 
+Completed Chapter 6, started Chapter 7 #Go #Golang
+Working thorugh Full-Stack React course. 
+Started the final chapter - Chapter 6. Building along the chat app.
+#reactjs #expressjs #javascript
 
 ### R2D65
+
+### R2D66
