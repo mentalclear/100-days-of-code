@@ -421,5 +421,12 @@ Started the final chapter - Chapter 6. Building along the chat app.
 #reactjs #expressjs #javascript
 
 ### R2D65
-
+R2Day65 of #100DaysOfCode
+Working through the Learning Go book. 
+Working on Chapter 7 - Types, Methods, Interfaces #Go #Golang
+Continue my work thorugh Full-Stack React course. 
+Final chapter - Chapter 6. Building along the chat app.
+#reactjs #expressjs #javascript
 ### R2D66
+
+### R2D67
