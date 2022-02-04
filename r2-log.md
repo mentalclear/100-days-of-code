@@ -436,5 +436,12 @@ Still there's a lot to digest
 #Go #Golang
 
 ### R2D67
+R2Day67 of #100DaysOfCode
+Continue my work thorugh Full-Stack React course. 
+Final chapter - Chapter 6. Building along the chat app.
+Completed 6.6 now 6.7 is coming.
+#reactjs #expressjs #javascript
 
 ### R2D68
+
+### R2D69
