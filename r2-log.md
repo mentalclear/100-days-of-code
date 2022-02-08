@@ -449,6 +449,15 @@ Continue learning stuff from Chapter 7 #Go #Golang
 Working on Full-Stack React course. 
 Chapter 6.7 Building chat app. Fought with socket.io error.
 #reactjs #expressjs #javascript
+
 ### R2D69
+R2Day69 of #100DaysOfCode
+Working through the Learning Go book. 
+Completed Chapter 7, Chapter 8 is next! #Go #Golang
+Working on Full-Stack React course. 
+Chapter 6.7 Building chat app. Last stretch! 
+#reactjs #expressjs #javascript
 
 ### R2D70
+
+### R2D71
