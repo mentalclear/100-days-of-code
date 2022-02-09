@@ -459,5 +459,14 @@ Chapter 6.7 Building chat app. Last stretch!
 #reactjs #expressjs #javascript
 
 ### R2D70
+R2Day70 of #100DaysOfCode
+Working through the Learning Go book. 
+Working Chapter 8 - Errors #Go #Golang
+Finally!!! Completed Full-Stack React course. 
+That was a long journey! But I learned a lot.
+#reactjs #expressjs #javascript
 
 ### R2D71
+
+### R2D72
+
