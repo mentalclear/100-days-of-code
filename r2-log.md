@@ -467,6 +467,14 @@ That was a long journey! But I learned a lot.
 #reactjs #expressjs #javascript
 
 ### R2D71
+R2Day71 of #100DaysOfCode
+Took a break from Go and JS, instead
+I submitted a PR to @eddiejaoude's open source project:
+https://github.com/EddieHubCommunity/LinkFree
+Had some fun fixing my own bugs :) 
+
 
 ### R2D72
+
+### R2D73
 
