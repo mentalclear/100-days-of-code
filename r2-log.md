@@ -473,8 +473,13 @@ I submitted a PR to @eddiejaoude's open source project:
 https://github.com/EddieHubCommunity/LinkFree
 Had some fun fixing my own bugs :) 
 
-
 ### R2D72
+R2Day72 of #100DaysOfCode
+Started building my own Full-Stack JS project, a Slideshow app. 
+Spent time today to update my Front-End template and created Front and Backend for the app.
+#reactjs #expressjs #javascript
 
 ### R2D73
 
+
+### R2D74
