@@ -479,6 +479,13 @@ Started building my own Full-Stack JS project, a Slideshow app.
 Spent time today to update my Front-End template and created Front and Backend for the app.
 #reactjs #expressjs #javascript
 
+R2Day72 of #100DaysOfCode
+Addition to previous post:
+Working through the Learning Go book. 
+Completed Chapter 8 learned about Errors 
+Moving to Chapter 9 Modules, Packages, and Imports
+#Go #Golang
+
 ### R2D73
 
 
