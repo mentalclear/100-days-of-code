@@ -487,6 +487,12 @@ Moving to Chapter 9 Modules, Packages, and Imports
 #Go #Golang
 
 ### R2D73
-
+R2Day73 of #100DaysOfCode
+Building my own Full-Stack JS project. 
+Focused on front-end, refreshed create-react-app template 
+and how to work with it. 
+#reactjs #expressjs #javascript
 
 ### R2D74
+
+### R2D75
