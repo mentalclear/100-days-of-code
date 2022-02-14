@@ -494,5 +494,14 @@ and how to work with it.
 #reactjs #expressjs #javascript
 
 ### R2D74
+R2Day74 of #100DaysOfCode
+Working on my own Full-Stack JS project, cleaning up and 
+refreshing my templates.
+#reactjs #expressjs #javascript
+Pushing through Chapter 9 Modules, Packages, and Imports from the Learning Go book.
+#Go #Golang
+
 
 ### R2D75
+
+### R2D76
