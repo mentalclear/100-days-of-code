@@ -502,6 +502,18 @@ Pushing through Chapter 9 Modules, Packages, and Imports from the Learning Go bo
 #Go #Golang
 
 
-### R2D75
+### R2D75-77
+R2Day75-77 of #100DaysOfCode
+Working on my own Full-Stack JS project, focused on UI prototype mostly.
+#reactjs #expressjs #javascript
+Still on Chapter 9 Modules, Packages, and Imports from the Learning Go book. #Go #Golang
 
-### R2D76
+### R2D78-79
+R2Day78-79 of #100DaysOfCode
+Working on my own Full-Stack JS project, continue with UI prototyping for the app, it's taking a bit longer since I haven't fully decided what it 
+should look like.
+#reactjs #expressjs #javascript
+
+### R2D80
+
+### R2D81
