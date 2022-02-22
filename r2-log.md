@@ -514,6 +514,18 @@ Working on my own Full-Stack JS project, continue with UI prototyping for the ap
 should look like.
 #reactjs #expressjs #javascript
 
-### R2D80
+### R2D80-81
+R2Day80-81 of #100DaysOfCode
+Working on my own Full-Stack JS project, spent several days working on the UI prototype. And pretty much completed it, should be enough for my goal. 
+#reactjs #expressjs #javascript
 
-### R2D81
+### R2D82
+R2Day82 of #100DaysOfCode
+Working on my own Full-Stack JS project, started working on the front-end,
+looks enough to start adding back-end functionality.
+#reactjs #expressjs #javascript
+Finally completed Chapter 9 Modules, Packages, and Imports from the Learning Go book.
+#Go #Golang
+
+### R2D83
+
