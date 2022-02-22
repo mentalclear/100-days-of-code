@@ -524,8 +524,7 @@ R2Day82 of #100DaysOfCode
 Working on my own Full-Stack JS project, started working on the front-end,
 looks enough to start adding back-end functionality.
 #reactjs #expressjs #javascript
-Finally completed Chapter 9 Modules, Packages, and Imports from the Learning Go book.
-#Go #Golang
+Finally completed Chapter 9 Modules, Packages, and Imports from the Learning Go book. #Go #Golang
 
 ### R2D83
 
