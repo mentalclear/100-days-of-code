@@ -527,4 +527,13 @@ looks enough to start adding back-end functionality.
 Finally completed Chapter 9 Modules, Packages, and Imports from the Learning Go book. #Go #Golang
 
 ### R2D83
+R2Day83 of #100DaysOfCode
+Working on my own Full-Stack JS project, found that I'm lacking a lot of design 
+on both ends frond-end and back-end started thinking and writing down ideas.
+#reactjs #expressjs #javascript
+Skimmed through the Chapter 10 and started Chapter 11 from the Learning Go book. #Go #Golang
 
+### R2D84
+
+
+### R2D85
