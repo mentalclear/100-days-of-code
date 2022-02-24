@@ -534,6 +534,11 @@ on both ends frond-end and back-end started thinking and writing down ideas.
 Skimmed through the Chapter 10 and started Chapter 11 from the Learning Go book. #Go #Golang
 
 ### R2D84
+R2Day84 of #100DaysOfCode
+Working on my own Full-Stack JS project. Worked on MongoDB design, created DB, worked on Back-End to make it serve static images.
+#reactjs #expressjs #javascript
+Working on Chapter 11 from the Learning Go book. 
+#Go #Golang
 
 
 ### R2D85
