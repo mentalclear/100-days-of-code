@@ -540,5 +540,10 @@ Working on my own Full-Stack JS project. Worked on MongoDB design, created DB, w
 Working on Chapter 11 from the Learning Go book. 
 #Go #Golang
 
-
 ### R2D85
+R2Day85 of #100DaysOfCode
+Working on my own Full-Stack JS project. Added a React hook to get images from the DB. Having a lot of fun with this!
+#reactjs #expressjs #javascript
+
+
+### R2D86
