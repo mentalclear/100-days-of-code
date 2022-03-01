@@ -548,9 +548,8 @@ Working on my own Full-Stack JS project. Added a React hook to get images from t
 
 ### R2D86
 R2Day86 of #100DaysOfCode
-Working on my own Full-Stack JS project. Added a React hook to get images from the DB. Having a lot of fun with this!
-#reactjs #expressjs #javascript
-Working on Chapter 11 from the Learning Go book, next topic net/http. 
-#Go #Golang
+Working on my own Full-Stack JS project. Expanding my MongoDB functionality. Created new collection with references.
+#reactjs #expressjs #javascript #mongodb
+Working on Chapter 11 from the Learning Go book, next topic net/http. #Go #Golang
 
 ### R2D87 
