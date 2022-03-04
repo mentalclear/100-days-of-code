@@ -552,4 +552,14 @@ Working on my own Full-Stack JS project. Expanding my MongoDB functionality. Cre
 #reactjs #expressjs #javascript #mongodb
 Working on Chapter 11 from the Learning Go book, next topic net/http. #Go #Golang
 
-### R2D87 
+### R2D87-91
+R2Day87-91 of #100DaysOfCode
+Continnue building my own Full-Stack JS project. Working on single slideshow page design.
+#reactjs #expressjs #javascript
+Completed Chapt 12 and working on Chapter 13 - Write Tests from the Learning Go book
+#Go #Golang
+
+### R2D92
+
+
+### R2D93
