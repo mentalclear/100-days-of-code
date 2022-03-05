@@ -560,6 +560,11 @@ Completed Chapt 12 and working on Chapter 13 - Write Tests from the Learning Go 
 #Go #Golang
 
 ### R2D92
-
+R2Day92 of #100DaysOfCode
+Continnue building my own Full-Stack JS project. Worked some more on my single slideshow page design. Several ideas are yet to decide.
+#reactjs #expressjs #javascript
 
 ### R2D93
+
+
+### R2D94
