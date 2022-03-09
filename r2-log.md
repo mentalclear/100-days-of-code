@@ -564,7 +564,10 @@ R2Day92 of #100DaysOfCode
 Continue building my own Full-Stack JS project. Worked some more on my single slideshow page design. Several ideas are yet to decide.
 #reactjs #expressjs #javascript
 
-### R2D93
+### R2D93-96
+R2Day93-96 of #100DaysOfCode
+Continue building my own Full-Stack JS project. Hit the wall with the single slideshow page design. Decided to try another approach.
+#reactjs #expressjs #javascript
+Working on Learning Go book, Chapter 13 - Write Tests. #Go #Golang
 
-
-### R2D94
+### R2D97
