@@ -577,4 +577,11 @@ Pretty interesting chapter, I'm still learning a lot.
 #Go #Golang
 
 ### R2D98
+R2Day98 of #100DaysOfCode
+Continue building my own Full-Stack JS project. 
+Working on the single slideshow page, it's getting better! 
+Did some changes to the endpoint that back-end is serving.
+#reactjs #expressjs #javascript
+
+### R2D99
 
