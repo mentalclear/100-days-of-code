@@ -571,3 +571,10 @@ Continue building my own Full-Stack JS project. Hit the wall with the single sli
 Working on Learning Go book, Chapter 13 - Write Tests. #Go #Golang
 
 ### R2D97
+R2Day97 of #100DaysOfCode
+Continue working on Learning Go book, Chapter 13 - Write Tests. 
+Pretty interesting chapter, I'm still learning a lot.
+#Go #Golang
+
+### R2D98
+
