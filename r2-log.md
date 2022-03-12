@@ -584,4 +584,8 @@ Did some changes to the endpoint that back-end is serving.
 #reactjs #expressjs #javascript
 
 ### R2D99
-
+R2Day99 of #100DaysOfCode
+Continue working on Learning Go book, 
+Finally completed Chapter 13 - Write Tests. 
+Chapter 14 - here I come... 
+#Go #Golang
