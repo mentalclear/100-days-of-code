@@ -589,3 +589,11 @@ Continue working on Learning Go book,
 Finally completed Chapter 13 - Write Tests. 
 Chapter 14 - here I come... 
 #Go #Golang
+
+
+### R2D100
+R2Day100 of #100DaysOfCode
+And another 100 days - Done!
+Continue building my own Full-Stack JS project. 
+Getting closer to the desired slideshow component. Brushed up the backend.
+#reactjs #expressjs #javascript
